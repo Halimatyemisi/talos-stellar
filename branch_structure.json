@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "423-event-query-fixtures",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "423-event-query-fixtures": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "423-event-query-fixtures",
+    "origin"
+  ]
+}
